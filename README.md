@@ -1,6 +1,7 @@
 # Miguel Ángel Rodríguez Hernando (Miguelo)
 
-Interested in DevOps, containerization and microservices. Doing side projects while I do some freelance jobs.
+Interested in DevOps, web development and microservices. Doing side projects while I do some freelance jobs.
+
 ## Social:
 [![](https://img.shields.io/badge/-@Miguelo981-%23181717?style=flat-square&logo=github)](https://github.com/Miguelo981)
 [![](https://img.shields.io/badge/-Miguelo981?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-hernando-a20b27196/)
@@ -19,20 +20,23 @@ Interested in DevOps, containerization and microservices. Doing side projects wh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## Cloud Provider Experience:
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4"></code>
-
 
 
 
 ## My Projects
 
-### Manga Scan Bot - Full Stack Developer (Website)
+### 🤖 Manga Bot - Full Stack Developer (Website)
+Manga Bot is an automatized algorithm to create automated content
+
+Tech stack: 
+- Frontend: Vuejs
+- Backend: NestJs
+- Database: Mongodb
+- DevOps: Docker
 
 
-### Alpha Solutions - Web Designer & Developer
-TalentFY is a platform that finds candidates from recruiters using ML and a private network, basically I built the whole website except the ML model.
-
+### 💼 Alpha Solutions - Web Designer & Developer
+Alpha Solutions is a private investmen platform serving courses and tools to learn more about trading and cryptocurrencies.
 
 Tech stack: 
 - Frontend: Vuejs
