@@ -1,9 +1,6 @@
-# JosepBove 
+# Miguel Ángel Rodríguez Hernando (Miguelo)
 
-Interested in DevOps, containerization and microservices. Doing side projects while I do some freelance jobs and study Computer Engineering at La Salle BCN.
-
-Reading 📚: Microservices for the Enterprise: Designing, Developing, and Deploying by Kasun Indrasiri and Prabath Siriwardena (2018)
-
+Interested in DevOps, containerization and microservices. Doing side projects while I do some freelance jobs.
 ## Social:
 [![](https://img.shields.io/badge/-@Miguelo981-%23181717?style=flat-square&logo=github)](https://github.com/Miguelo981)
 [![](https://img.shields.io/badge/-Miguel Angel-orange?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-hernando-a20b27196/)
@@ -31,17 +28,7 @@ Reading 📚: Microservices for the Enterprise: Designing, Developing, and Deplo
 ## My Projects
 
 ### Manga Scan Bot - Full Stack Developer (Website)
-NosWings MMORPG Private Server of the game NosTale, written **from scratch** with a team of passionate IT students.
 
-
-Tech stack: 
-- Emulator: .NET Core 3.1 (C# 8), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
-- DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
-- Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
-- Web: VueJS (frontend), React (Wiki/Documentation) + ASP.NET Core (Backend)
-- Mobile App: Flutter
-- Client Modding SDK: C++, ASM
-- Resources Modding: C#, Golang
 
 ### Alpha Solutions - Web Designer & Developer
 TalentFY is a platform that finds candidates from recruiters using ML and a private network, basically I built the whole website except the ML model.
