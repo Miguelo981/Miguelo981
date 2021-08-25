@@ -3,7 +3,7 @@
 Interested in DevOps, containerization and microservices. Doing side projects while I do some freelance jobs.
 ## Social:
 [![](https://img.shields.io/badge/-@Miguelo981-%23181717?style=flat-square&logo=github)](https://github.com/Miguelo981)
-[![](https://img.shields.io/badge/-Miguel Angel-orange?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-hernando-a20b27196/)
+[![](https://img.shields.io/badge/-Miguelo981?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-hernando-a20b27196/)
 
 
 ## Languages:
