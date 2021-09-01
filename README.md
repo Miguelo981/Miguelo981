@@ -36,7 +36,7 @@ Tech stack:
 
 
 ### 💼 Alpha Solutions - Web Designer & Developer
-Alpha Solutions is a private investmen platform serving courses and tools to learn more about trading and cryptocurrencies.
+Alpha Solutions is a private investment platform serving courses and tools to learn more about trading and cryptocurrencies.
 
 Tech stack: 
 - Frontend: Vuejs
