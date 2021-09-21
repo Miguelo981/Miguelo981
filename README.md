@@ -19,7 +19,7 @@ Interested in DevOps, web development and microservices. Doing side projects whi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nestjs/nestjs.png"></code>
 
 
 
@@ -34,6 +34,14 @@ Tech stack:
 - Database: Mongodb
 - DevOps: Docker
 
+### 👾 Eastmile - Full Stack Developer
+Eastmile is a private online server MMORPG videogame.
+
+Tech stack: 
+- Frontend: Angular
+- Backend: Django
+- Design: Adobe Xd
+- DevOps: Docker
 
 ### 💼 Alpha Solutions - Web Designer & Developer
 Alpha Solutions is a private investment platform serving courses and tools to learn more about trading and cryptocurrencies.
