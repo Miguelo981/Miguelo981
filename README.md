@@ -50,3 +50,17 @@ Tech stack:
 - Frontend: Vuejs
 - Design: Adobe Xd
 - DevOps: Docker
+
+### 💻 Themar Solutions landing page - Web Designer
+Themar is company that develop custom Blockchain and DLT project solutions.
+
+Tech stack: 
+- Frontend: Vuejs
+- Design: Adobe Xd
+
+### 🐦 Avem Finance landing page - Web Designer
+Avem is a investor’s connection with the Polkadot domain through a decentralized exchange, launchpad and DeFi products built on top of Shiden Network.
+
+Tech stack: 
+- Frontend: Vuejs
+- Design: Adobe Xd
