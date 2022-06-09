@@ -27,6 +27,9 @@ Interested in DevOps, web development and microservices. Doing side projects whi
 <code><img height="20" src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png"></code>
+<code><img height="20" src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"></code>
 
 ## Databases:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
