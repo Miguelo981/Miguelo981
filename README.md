@@ -1,6 +1,6 @@
 # Miguel Ángel Rodríguez Hernando (Miguelo)
 
-<a href="https://app.daily.dev/Miguelo981"><img src="https://api.daily.dev/devcards/b8c25fec62384a83b441111f6d3fc8db.png?r=82f" width="400" alt="Miguel Ángel's Dev Card"/></a>
+<a href="https://app.daily.dev/Miguelo981"><img src="https://api.daily.dev/devcards/b8c25fec62384a83b441111f6d3fc8db.png?r=du3" width="400" alt="Miguel Ángel's Dev Card"/></a>
 
 Interested in DevOps, Web development and Microservices. Web3 passionate. Doing side projects while I do some freelance jobs.
 
@@ -19,6 +19,7 @@ Interested in DevOps, Web development and Microservices. Web3 passionate. Doing 
 
 ## Frameworks/Tools:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="25" src="https://bestofjs.org/logos/astro.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
