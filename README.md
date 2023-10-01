@@ -59,6 +59,12 @@ Tech stack:
 
 ### 2022 - 2023
 
+#### 🍃 Zona Agraria
+Group of agricultural enthusiasts that has joined forces to create an online community dedicated to sharing agricultural news and knowledge. and forum.
+
+Tech stack: 
+- Django, bootstrap and pytest with AWS infra
+
 #### 🎭 The House Talents
 In constant movement in search of new opportunities, new projects for our represented and represented actors.
 
