@@ -15,6 +15,9 @@ Enthusiastic Engineer with a passion for crafting exceptional digital experience
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="25" src="https://seeklogo.com/images/D/deno-logo-E606600C06-seeklogo.com.png"></code>
+<code><img height="25" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"></code>
+<code><img height="25" src="https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
@@ -58,6 +61,12 @@ Tech stack:
 ## My client Projects
 
 ### 2022 - 2023
+
+#### 🏨 PlusHolidays
+Booking apartments and holiday homes throughout the country.
+
+Tech stack:
+- Nuxt, Vuejs with tailwindcss
 
 #### 🍃 Zona Agraria
 Group of agricultural enthusiasts that has joined forces to create an online community dedicated to sharing agricultural news and knowledge. and forum.
