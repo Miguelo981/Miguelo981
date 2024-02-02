@@ -15,6 +15,8 @@ Enthusiastic Engineer with a passion for crafting exceptional digital experience
 <code><img height="25" src="https://seeklogo.com/images/S/svelte-logo-E3497608CB-seeklogo.com.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="25" src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png"></code>
+<code><img height="25" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/D/deno-logo-E606600C06-seeklogo.com.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"></code>
