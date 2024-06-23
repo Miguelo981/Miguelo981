@@ -12,20 +12,15 @@ Enthusiastic Engineer with a passion for crafting exceptional digital experience
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://bestofjs.org/logos/astro.svg"></code>
-<code><img height="25" src="https://seeklogo.com/images/S/svelte-logo-E3497608CB-seeklogo.com.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/D/deno-logo-E606600C06-seeklogo.com.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="25" src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"></code>
-<code><img height="25" src="http://larslai.github.io/onlinePresentation/images/skills/web3js.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png"></code>
 <code><img height="25" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png"></code>
 
