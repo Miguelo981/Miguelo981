@@ -1,11 +1,11 @@
 # Miguel Ángel Rodríguez Hernando
 
-Enthusiastic Engineer with a passion for crafting exceptional digital experiences. As a fervent autodidact, I've been instrumental in the creation of a diverse range of side projects and innovative products, each reflecting my dedication to mastering a spectrum of technologies.
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel_Angel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-hernando-a20b27196/)](https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-hernando-a20b27196/)
+[![Website Badge](https://img.shields.io/badge/-portfolio.miguelo.dev-6366F1?style=flat&logo=Google-Chrome&logoColor=white&link=https://portfolio.miguelo.dev)](https://portfolio.miguelo.dev)
+[![Twitter Badge](https://img.shields.io/badge/-@Miguelo981-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/@Miguelo981)](https://twitter.com/@Miguelo981)
+[![Gmail Badge](https://img.shields.io/badge/-ma.rodriguez.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ma.rodriguez.dev@gmail.com)](mailto:ma.rodriguez.dev@gmail.com?subject=Hiring)
 
-## Contact:
-[![](https://img.shields.io/badge/@Miguelo981-%23181717?style=flat-square&logo=github)](https://github.com/Miguelo981)
-[![](https://img.shields.io/badge/Miguelo-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-rodr%C3%ADguez-hernando-a20b27196/)
-[![](https://img.shields.io/badge/Email-ma.rodriguez.dev%40gmail.com-%23181717?style=flat-square)](mailto:ma.rodriguez.dev@gmail.com?subject=Hiring)
+Enthusiastic Polyglot Engineer with a passion for crafting exceptional digital experiences. As a fervent autodidact, I've been instrumental in the creation of a diverse range of side projects and innovative products, each reflecting my dedication to mastering a spectrum of technologies.
 
 ## Frameworks/Tools:
 
