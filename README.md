@@ -11,18 +11,16 @@ Enthusiastic Polyglot Engineer with a passion for crafting exceptional digital e
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://bestofjs.org/logos/astro.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="25" src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png"></code>
-<code><img height="25" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png"></code>
-<code><img height="25" src="https://seeklogo.com/images/D/deno-logo-E606600C06-seeklogo.com.png"></code>
-<code><img height="25" src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png"></code>
-<code><img height="25" src="https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="25" src="https://astro.build/assets/press/astro-icon-light.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/1024px-Deno_2021.svg.png"></code>
+<code><img height="25" src="https://vitest.dev/logo-shadow.svg"></code>
+<code><img height="25" src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1735292141958" /></code>
+<code><img height="25" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp"></code>
+<code><img height="25" src="https://nuxt.com/assets/design-kit/icon-green.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="25" src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc"></code>
-<code><img height="25" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png"></code>
-<code><img height="25" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"></code>
 
 ## My Web3 projects
 
