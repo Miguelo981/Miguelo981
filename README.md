@@ -22,101 +22,45 @@ Enthusiastic Polyglot Engineer with a passion for crafting exceptional digital e
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"></code>
 
-## My Web3 projects
+# My experience as Senior Frontend Developer
 
-#### 🅿️ Polkadot dApp
-A simple dApp for transferring funds and storing JSON objects on the Polkadot blockchain. This dApp allows users to securely transfer funds and store data in the form of JSON objects on the decentralized Polkadot network.
+**MaarLab · Full-time**  
+**Nov. 2023 - Present · 1 year 5 months**  
 
-Tech stack: 
-- Nodejs with typescript and ethersjs
-- [Demo](https://dot-dapp.vercel.app/)
-- [Repository](https://github.com/Miguelo981/token-price-alert-bot)
+- ✅ **Performance Optimization:** Reduced the bundle size of a major hotel booking website by 4x and improved build times through testing, resource minification, and code optimization, enhancing development efficiency.
+- ✅ **Automation and Scalability:** Implemented automated deployments and optimized infrastructure, streamlining processes, reducing errors, and improving the development team's experience.
+- ✅ **Modernization and Documentation:** Led the refactoring and technical documentation of the main project, facilitating collaboration and code maintenance.
+- ✅ **Technical Leadership in Frontend Development:** Managed a small team to build a large-scale Booking-style application, applying TDD, SOLID, and Screaming Architecture principles to ensure quality and maintainability.
+- ✅ **Process Optimization:** Defined features and the team's roadmap with precision, reducing time spent in meetings and PR validations, significantly accelerating project delivery.
 
-#### 🤖 BEP-20 Token Price Alert
-Email, SMS, Discord, Telegram and WhatsApp bot for alerting the price of a BSC (BEP-20) Token in all your devices.
+🚀 This experience has allowed me to refine performance optimization, automation, and technical leadership in high-impact projects.
 
-Tech stack: 
-- Nodejs with typescript and ethersjs
-- [Repository](https://github.com/Miguelo981/token-price-alert-bot)
+---
 
-#### 📈 Web3 Dashboard
-Open source dApp specialized in previewing the balance of your Metamask wallet. Add / change / remove Tokens and Networks quickly and easily.
+# Full Stack Developer
 
-Tech stack: 
-- Frontend: Nextjs, React with tailwindcss
-- [Demo](https://web3.miguelo.dev/)
-- [Repository](https://github.com/Miguelo981/web3-dashboard)
+**Miguelo · Independent Professional**  
+**2019 - Present · 6 years 3 months**  
 
-#### 🔒 web3-token
-Web3 Token is a new way to authenticate users in a hybrid dApps using signed messages. Implementation of EIP-4361.
+- ✅ **Web Development Leadership:** Designed and developed multiple projects tailored to specific client needs, ensuring optimized and scalable solutions.
+- ✅ **Experience in Diverse Projects:** Delivered everything from ultra-fast landing pages to complex Airbnb- or Booking-style platforms, ensuring high performance and impeccable UX.
+- ✅ **Precise Layout Implementation:** Achieved near "pixel-perfect" results, ensuring design fidelity and optimization across all devices.
+- ✅ **Software Modernization:** Updated and optimized legacy software, integrating modern technologies without compromising functionality.
+- ✅ **Technological Adaptability:** Quickly learned new technologies based on client requirements or suggested more efficient alternatives.
+- ✅ **Agile Delivery and Quality Code:** Implemented best practices, typed code, and documentation when necessary, providing accurate estimates and maintaining clear communication with clients.
 
-Tech stack: 
-- Golang with go-ethereum
-- [Repository](https://github.com/Miguelo981/web3-token)
+🚀 This experience has allowed me to master full-stack development, performance optimization, and efficient project management.
 
-## My client Projects
+---
 
-### 2022 - 2023
+# Software Engineer
 
-#### 🏨 PlusHolidays
-Booking apartments and holiday homes throughout the country.
+**Impacting.Digital · Full-time**  
+**Nov. 2021 - Jun. 2023 · 1 year 8 months**  
 
-Tech stack:
-- Nuxt, Vuejs with tailwindcss
+- ✅ **Automation and Efficiency:** Led the implementation of a CI/CD system in Azure DevOps, eliminating manual deployments and optimizing software delivery. This change reduced deployment times and errors across multiple services.
+- ✅ **Scalable Solutions Development:** Created a no-code reusable WordPress template, ensuring a responsive and optimized design, facilitating the creation of new sites without additional development.
+- ✅ **Code and UX Improvement:** Conducted deep refactoring in legacy projects for major Portuguese and Spanish companies, focusing on enhancing mobile user experience, benefiting hundreds of users.
 
-#### 🍃 Zona Agraria
-Group of agricultural enthusiasts that has joined forces to create an online community dedicated to sharing agricultural news and knowledge. and forum.
+🚀 This experience allowed me to specialize in automation, code optimization, and UX improvement in large-scale projects.
 
-Tech stack: 
-- Django, bootstrap and pytest with AWS infra
-
-#### 🎭 The House Talents
-In constant movement in search of new opportunities, new projects for our represented and represented actors.
-
-Tech stack: 
-- Frontend: Nextjs, React with tailwindcss
-
-#### 🎖️ Impacting Digital Landing page
-Helps companies to transform and acquire a digital DNA. Digital business transformation fascinates us. From strategic approach, routine tasks, to activities and processes.
-
-Tech stack: 
-- Frontend: Custom wordpress template
-
-#### 🎉 Artistealo
-Find all kinds of artists, services and suppliers for events or celebrations.
-
-Tech stack: 
-- Frontend: Django
-
-#### 💎 Uniclegacy
-Uniclegacy is a portal that transforms the most relevant moments of your favorite idols into NFTs.
-
-Tech stack: 
-- Frontend: React with tailwindcss and Web3js
-
-### 2020 - 2022
-
-#### 🧾 CryptoMasters Academy
-CryptoMasters Academy is a school specialized in cryptoeconomics and decentralized finance.
-
-Tech stack: 
-- Frontend: Vuejs with tailwindcss
-
-#### 📊 Avem Finance DEX (DeFi)
-Avem's Decentralized Exchange.
-
-Tech stack: 
-- Frontend: Vuejs with tailwindcss and Web3js
-- Design: Adobe Xd
-
-#### 🐦 Avem Finance landing page - Web Developer
-Avem is a investor’s connection with the Polkadot domain through a decentralized exchange, launchpad and DeFi products built on top of Shiden Network.
-
-Tech stack: 
-- Frontend: Vuejs with tailwindcss
-
-#### 💻 Themar Solutions landing page
-Themar is company that develop custom Blockchain and DLT project solutions.
-
-Tech stack: 
-- Frontend: Vuejs
